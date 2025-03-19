@@ -1,18 +1,20 @@
-<p align="center">
-  <a href="https://roots.io/sage/"><img alt="Sage" src="https://cdn.roots.io/app/uploads/logo-sage.svg" height="100"></a>
-</p>
-<p align="center">
-  <a href="#"><img alt="Logo polyglotcaht" src="https://www.pierrealainfaure.com/wp-content/uploads/2010/07/logo_chatpolyglot_transp.png" height="100"></a>
-</p>
+<div style="display: flex;gap: 2rem; justify-content: center; align-items: center;">
+  <p style="">
+    <a href="https://roots.io/sage/"><img alt="Sage" src="https://cdn.roots.io/app/uploads/logo-sage.svg" height="100"></a>
+  </p>
+  <p style="">
+    <a href="#"><img alt="Logo polyglotchat" src="https://www.pierrealainfaure.com/wp-content/uploads/2010/07/logo_chatpolyglot_transp.png" height="250"></a>
+  </p>
+</div>
 
 
-<p align="center">
+<p align="center" class="">
   <a href="https://packagist.org/packages/roots/sage"><img alt="Packagist Installs" src="https://img.shields.io/packagist/dt/roots/sage?label=projects%20created&colorB=2b3072&colorA=525ddc&style=flat-square"></a>
   <a href="https://github.com/roots/sage/actions/workflows/main.yml"><img alt="Build Status" src="https://img.shields.io/github/actions/workflow/status/roots/sage/main.yml?branch=main&logo=github&label=CI&style=flat-square"></a>
   <a href="https://bsky.app/profile/roots.dev"><img alt="Follow roots.dev on Bluesky" src="https://img.shields.io/badge/follow-@roots.dev-0085ff?logo=bluesky&style=flat-square"></a>
 </p>
 
-# Sage
+# Sage for Polyglotchat Project // 03/2025
 
 **Advanced hybrid WordPress starter theme with Laravel Blade and Tailwind CSS**
 
